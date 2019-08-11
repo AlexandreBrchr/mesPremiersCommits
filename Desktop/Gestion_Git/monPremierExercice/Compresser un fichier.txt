@@ -1,0 +1,6 @@
+Etapes pour compresser un fichier 
+	1. Sélectionner le fichier à compresser 
+	2. Cliquer avec le bouton droit de votre souris 
+	3. Cliquer sur "Envoyer  vers"
+	4. Selectionner "Dossier compressé" 
+	5. Le fichier zippé est créé
